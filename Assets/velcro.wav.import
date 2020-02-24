@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/velcro.wav-425bdb6baf05f9153634056aaa0cbffe.sample"
+
+[deps]
+
+source_file="res://Assets/velcro.wav"
+dest_files=[ "res://.import/velcro.wav-425bdb6baf05f9153634056aaa0cbffe.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
